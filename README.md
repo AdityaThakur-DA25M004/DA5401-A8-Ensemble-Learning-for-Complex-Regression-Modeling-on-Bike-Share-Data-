@@ -160,9 +160,11 @@ y = df_encoded['cnt']
 # ✅ 5) Final Conclusion
 
 ### ⭐ Best Model: **Stacking Regressor**
+
 ---
-<img width="720" height="484" alt="4825f7a4-5a80-4ad9-9643-d0ce2a197047" src="https://github.com/user-attachments/assets/0ec77791-3ffc-4514-b087-3f20daf7927e" />
+<img width="540" height="370" alt="4825f7a4-5a80-4ad9-9643-d0ce2a197047" src="https://github.com/user-attachments/assets/0ec77791-3ffc-4514-b087-3f20daf7927e" />
 ---
+
 ### Why?
 - Combines complementary models (KNN, Bagging, Boosting)  
 - Meta-learner (Ridge) optimally weights them  
