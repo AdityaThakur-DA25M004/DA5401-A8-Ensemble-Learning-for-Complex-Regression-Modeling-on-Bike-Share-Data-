@@ -4,10 +4,10 @@
 ---
 #### Name: Aditya Thakur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll No: DA25M004
 ---
-## 📘 Project Overview
+## 📘 Assignment Overview
 
-This project predicts hourly bike rental counts (`cnt`) using the **UCI Bike Sharing Dataset**.  
-It demonstrates an end-to-end ML workflow with focus on **ensemble learning** methods—Bagging, Boosting, and Stacking—and evaluates their performance through **bias–variance tradeoff** and **hypothesis validation**.
+This assignment predicts hourly bike rental counts (`cnt`) using the **UCI Bike Sharing Dataset**.  
+It demonstrates  workflow with focus on **ensemble learning** methods—Bagging, Boosting, and Stacking—and evaluates their performance through **bias–variance tradeoff** and **hypothesis validation**.
 
 ---
 
